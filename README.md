@@ -46,7 +46,7 @@
 
 - 🤖 Deep Learning & Neural Networks
 - ✨ LLMs & Prompt Engineering
-- 🔗 LangChain & RAG
+- 🔗 Generative AI
 
 ---
 
