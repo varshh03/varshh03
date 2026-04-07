@@ -1,6 +1,6 @@
-# Hey, I'm Varsh! 👋
+# Hey, I'm Varshitha K S ! 👋
 
-🎓 Student | 🤖 ML & GenAI Enthusiast | 🚀 Building with Streamlit
+🎓 Student | 🤖 ML & GenAI Enthusiast | 🚀 Building with Streamlit, web dev
 
 ---
 
