@@ -20,7 +20,7 @@ Student | ML & GenAI Enthusiast |  Building with Streamlit, web dev
 -  Machine Learning Projects
 -  Generative AI Apps
 -  Deploy using Streamlit
--  Web Development (HTML/CSS)
+-  Web Development
 
 ---
 
