@@ -1,10 +1,10 @@
-# Hey, I'm Varshitha K S ! 👋
+# Hey, I'm Varshitha K S ! 
 
-🎓 Student | 🤖 ML & GenAI Enthusiast | 🚀 Building with Streamlit, web dev
+Student | ML & GenAI Enthusiast |  Building with Streamlit, web dev
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,24 +15,24 @@
 
 ---
 
-## 🤖 What I Do
+##  What I Do
 
-- 🧠 Machine Learning Projects
-- ✨ Generative AI Apps
-- 🚀 Deploy using Streamlit
-- 🌐 Web Development (HTML/CSS)
+-  Machine Learning Projects
+-  Generative AI Apps
+-  Deploy using Streamlit
+-  Web Development (HTML/CSS)
 
 ---
 
-## 🔥 Live Project
+##  Live Project
 
-> 🚀 Check out my live Streamlit app!
+>  Check out my live Streamlit app!
 
 [![Live App](https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-fitforge-ctxix9ayqc9vpenh4ntplp.streamlit.app/)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varshh03&show_icons=true&theme=tokyonight)
 
@@ -42,15 +42,15 @@
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
-- 🤖 Deep Learning & Neural Networks
-- ✨ LLMs & Prompt Engineering
-- 🔗 Generative AI
+-  Deep Learning & Neural Networks
+-  LLMs & Prompt Engineering
+-  Generative AI
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshitha-kondass333/)
 
